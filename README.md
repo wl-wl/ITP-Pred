@@ -1,7 +1,6 @@
 # DLTP
 Develop a deep learning model based on multiple descriptor information and physical and chemical properties to predict therapeutic peptides.
-
-# Python:3.5
+Python:3.5
 -------------------------------------------------------------------------------
 # DataSets
 QSP400 datasets:quorum sensing peptides(QSPs)
@@ -20,5 +19,5 @@ independent_ver file plays the independent verification;
 feature_subset file plays the feature subset experiment;
 shap file plays the feature interpretability analysis.
 
-# CPP740
+CPP740
 similar to above.
