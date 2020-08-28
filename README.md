@@ -4,12 +4,10 @@ Develop a deep learning model based on multiple descriptor information and physi
 # Python:3.5
 -------------------------------------------------------------------------------
 # DataSets
-
-# QSP400 datasets:quorum sensing peptides(QSPs)
+QSP400 datasets:quorum sensing peptides(QSPs)
 dataPro plays the processed training set and test set;
 dataPro_dependent plays the processed independent verification collection.
-
-# CPP740 datasets:cell penetrating peptides (CPPs) 
+CPP740 datasets:cell penetrating peptides (CPPs) 
 similar to above.
 
 --------------------------------------------------------------------------------
